@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 
 ![Foroogh Varmazyar's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvmzr&layout=compact&hide_border=false&title_color=0366d6&count_private=true&include_all_commits=true&theme=clean)
 
-<a href="https://stackoverflow.com/users/7648546/foroogh-varmazyar"><img src="https://stackoverflow.com/users/flair/7648546.png?theme=clean" width="300" height="80" alt="Adnan Abdollah Zaki at Stack Overflow" title="Foroogh Varmazyar at Stack Overflow" align="top"></a>
