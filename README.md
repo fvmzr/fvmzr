@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning Jetpack Compose
-- 👯 I'm looking to collaborate with International Companies
+- 🌱 I’m currently learning koltin multiplatform
+
   
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fvmzr&theme=clean&show_icons=true&count_private=true&locale=en" alt="fvmzr" />
